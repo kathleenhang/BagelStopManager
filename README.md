@@ -1,6 +1,8 @@
 # BagelStopManager
 Allows user to edit the bagel and cream cheese menu.
+
 CISP21 Java Programming - Project 5
+
 [ Professor: Ms. J ]
 
 <img width="674" alt="screen shot 2018-03-17 at 3 18 43 pm" src="https://user-images.githubusercontent.com/2395780/37560596-b707d154-29f8-11e8-8437-7fc10ef274b1.png">
